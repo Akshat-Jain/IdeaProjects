@@ -1,0 +1,3 @@
+Hey this is Akshat Jain.
+I'm trying to count the words of this text file.
+Let's see how many words I can find in the file.
